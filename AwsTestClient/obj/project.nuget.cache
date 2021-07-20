@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6hb0vHSHR+NxQDEZwQcOm6KOAyhc7Ce/7UeX9VnZexBU+DEck0kJ/GeTVvNbH3hN3RPT+JDNNDGmcuksJ9Jfig==",
+  "success": true,
+  "projectFilePath": "/home/nfarago/RiderProjects/AwsTestClient/AwsTestClient/AwsTestClient.csproj",
+  "expectedPackageFiles": [
+    "/home/nfarago/.nuget/packages/awssdk.core/3.7.0.45/awssdk.core.3.7.0.45.nupkg.sha512",
+    "/home/nfarago/.nuget/packages/awssdk.lambda/3.7.1.6/awssdk.lambda.3.7.1.6.nupkg.sha512",
+    "/home/nfarago/.nuget/packages/awssdk.rds/3.7.2.11/awssdk.rds.3.7.2.11.nupkg.sha512"
+  ],
+  "logs": []
+}
